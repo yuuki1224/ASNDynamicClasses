@@ -14,16 +14,17 @@ NSArray *generatedClasses = dynamicClasses.generatedClasses;
         "age",
         "sex"
     ],
-    "Production" : [
+    "Product" : [
         "name",
-    "age",
-    "sex"
+        "color",
+        "createdAt"
     ]
 }
 ```````
 
-You can create User and Production Classes.
-They have 3 properties each other. Of Course, You can change them.
+You can create `User` and `Production` Classes.
+They have 3 properties(name, age, sex and name, color, createdAt) each other.
+Ofcourse, You can change them!!
 
 ##Todo
 - Demo doesn't work kkk
@@ -31,4 +32,3 @@ They have 3 properties each other. Of Course, You can change them.
 
 ##Author
 Yuki Asano, yuuki.1224.softtennis@gmail.com
-
