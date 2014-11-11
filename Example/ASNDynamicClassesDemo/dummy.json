@@ -1,0 +1,12 @@
+{
+    "User" : [
+              "name",
+              "age",
+              "sex"
+             ],
+    "Production" : [
+              "name",
+              "age",
+              "sex"
+             ]
+}
