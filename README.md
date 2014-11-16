@@ -27,7 +27,7 @@ They have 3 properties(name, age, sex and name, color, createdAt) each other.
 Ofcourse, You can change them!!
 
 ##Todo
-- Demo doesn't work kkk
+- Demo doesn't work
 - A lot of functions
 
 ##Author
